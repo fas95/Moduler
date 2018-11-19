@@ -1,0 +1,3 @@
+[submodule "Submain"]
+	path = Submain
+	url = https://github.com/fas95/Submain
